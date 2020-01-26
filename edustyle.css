@@ -113,4 +113,13 @@ li {
     .tag {
         width: 90%;
     }
+    .head {
+        font-size: 2vw;
+    }
+    .main {
+        font-size: 2vw;
+    }
+    .footer {
+        font-size: 1.7vw;
+    }
 }
